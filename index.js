@@ -35,4 +35,4 @@ client.on('message', (message) => {
 
 
 
-client.login(heroku.token)
+client.login(token)
