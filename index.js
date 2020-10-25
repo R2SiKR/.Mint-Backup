@@ -1,6 +1,5 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const config = require('./config.json')
 const BotName = "MintVillageBot";
 const prefix = "민트야 ";
 const fs = require('fs');
